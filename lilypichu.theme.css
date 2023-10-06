@@ -28,10 +28,10 @@
 
 .theme-dark {
   /* Text */
-  --text-normal: #f8e1e5;
-  --header-primary: #f8e1e5;
+  --text-normal: #2e006b;
+  --header-primary: #2e006b;
   --interactive-normal: #fab1bd;
-  --channels-default: #f8e1e5;
+  --channels-default: #2e006b;
 
   --text-muted: #e2c1c7;
   --interactive-muted: #ad8c91;
