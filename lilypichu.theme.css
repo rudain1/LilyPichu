@@ -30,7 +30,7 @@
   /* Text */
   --text-normal: #2e006b;
   --header-primary: #2e006b;
-  --interactive-normal: #fab1bd;
+  --interactive-normal: #350091;
   --channels-default: #2e006b;
 
   --text-muted: #e2c1c7;
@@ -42,8 +42,8 @@
 
   /* Background color */
   --background-primary: #5e3640;
-  --background-secondary: #49292f;
-  --background-secondary-alt: #3b1d24;
+  --background-secondary: #200040;
+  --background-secondary-alt: #11003d;
   --background-tertiary: #220f14;
   --background-floating: #221115;
   --background-accent: #c5536c;
